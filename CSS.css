@@ -1,0 +1,53 @@
+﻿.style2 {
+	color: #666666;
+}
+.style3 {
+	color: #333333;
+}
+.style4 {
+	color: #000000;
+}
+.style5 {
+	color: #0b0080;
+	text-decoration: none;
+}
+
+.style7 {
+	text-decoration: none;
+}
+
+.search{
+	width: 300px; /* Ширина поля с кнопкой */
+	border: 1px solid black; /* Параметры рамки */
+	min-height: 20px; /* Минимальная высота */
+	
+}
+
+input[type="search"] {
+    border: none; /* Убираем рамку */
+    outline: none; /* Убираем свечение в Chrome и Safari */
+    width: 274px; /* Ширина поля */
+    vertical-align: middle; /* Выравнивание по середине */
+}
+
+input[type="submet"] {
+    width: 20px; /* Ширина кнопки */
+    height: 20px; /* Высота кнопки */
+    border: none; /* Убираем рамку */
+    background: url('img/search.png'); /* Параметры фона */
+   }
+   
+.alignment_l{
+	float: left;
+}
+
+
+.alignment_r{
+	float: right;
+}
+
+.bord{
+	padding: 5px;
+}
+
+
