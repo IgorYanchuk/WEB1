@@ -1,5 +1,5 @@
 ﻿.left{
-	width: 20%; 
+	max-width: 20%; 
 	float: left;
 }
 
@@ -95,4 +95,11 @@ input[type="submet"] {
 
 .decor{
 	color: #0645ad;
+	list-style: none;
+	counter-reset: li;
+}
+
+li:before{
+	counter-increment: li; 
+	content: counters(li,".") ". ";
 }
