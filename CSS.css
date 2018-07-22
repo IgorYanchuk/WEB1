@@ -64,3 +64,14 @@ input[type="submet"] {
 	float: right;
 }
 
+.football_career{
+	border: 1px solid lightgrey;
+	float: right;
+	margin-top:100px;
+	width: 300px; 
+	padding: 10px;
+}
+
+.pad_l{
+	padding-left:20px;
+}
