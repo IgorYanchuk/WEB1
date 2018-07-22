@@ -16,10 +16,17 @@
 	text-decoration: none;
 }
 
+.style8{
+	width: 23px;
+	border: none;
+	float: right;
+
+}
+
 .search{
 	width: 300px; /* Ширина поля с кнопкой */
 	border: 1px solid black; /* Параметры рамки */
-	min-height: 20px; /* Минимальная высота */
+	height: 20px; /* Минимальная высота */
 	
 }
 
@@ -44,10 +51,16 @@ input[type="submet"] {
 
 .alignment_r{
 	float: right;
-}
+	}
 
 .bord{
 	padding: 5px;
+	height: 20px;
+	border-color: #666666;
 }
 
+.box{
+	width: 80%; 
+	float: right;
+}
 
