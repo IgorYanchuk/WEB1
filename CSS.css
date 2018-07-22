@@ -1,4 +1,9 @@
-﻿.style2 {
+﻿.left{
+	width: 20%; 
+	float: left;
+}
+
+.style2 {
 	color: #666666;
 }
 .style3 {
@@ -74,4 +79,20 @@ input[type="submet"] {
 
 .pad_l{
 	padding-left:20px;
+}
+
+.list{
+	background-color: #f8f9fa;
+	height: 530px;
+	width: 39%;
+	margin-left: 16%;
+	border: 1px solid black ;
+}
+
+.mid{
+	text-align: center;
+}
+
+.decor{
+	color: #0645ad;
 }
