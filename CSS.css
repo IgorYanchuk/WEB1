@@ -79,6 +79,7 @@ input[type="submet"] {
 
 .pad_l{
 	padding-left:20px;
+	vertical-align: top;
 }
 
 .list{
@@ -103,3 +104,53 @@ li:before{
 	counter-increment: li; 
 	content: counters(li,".") ". ";
 }
+
+.cvet{
+	background-color:#99cc99;  
+	height:30px;
+}
+
+.lalala{
+	width: 98px;
+	vertical-align: top;
+}
+
+td{
+	 padding-top: 3px;
+	 border: 2px solid white ;
+}
+
+.inform{
+	text-align:center; 
+	background-color:#e1f7e6;
+}
+
+.club1{
+	background-color: #eee;
+}
+
+.club2{
+	background-color: #eeeeff;
+	border:none;
+}
+
+.tablica{
+	border-collapse: collapse; 
+	width: 100%; 
+	height: 371px;
+	font-size: 14px;
+}
+
+.granica{
+	 border: 4px solid white ;
+}
+
+.club3{
+	background-color: #f0f8ff;
+	border: none;
+}
+
+.career{
+	padding-left: 2px;
+}
+
